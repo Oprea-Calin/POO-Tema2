@@ -1,7 +1,4 @@
 ## Cerințe tema 2
-
-Continuăm familiarizarea cu limbajul C++ (din nou) și învățăm alte noțiuni OOP de bază: moșteniri și excepții.
-
 Cerințe comune:
 - separarea codului din clase în fișiere header (`.h`/`.hpp` etc.) și surse (`.cpp` etc.)
   - clasele mici și legate între ele se pot afla în aceeași pereche de fișiere header-sursă
